@@ -1,0 +1,31 @@
+# Studio Layouts for Different Budgets
+
+## Low Budget Layout
+```
+[Desk]      [Audio Interface]
+   |        [Laptop/DAW]         
+[Monitors] [Mic] 
+   |        [Headphones]
+```
+- Compact desk, speakers on isolation pads, mic on desk stand.
+
+## Medium Budget Layout
+```
+[Desk]-------------------------
+|  [Laptop/DAW]   [Audio Interface]
+|  [Monitors]     [Mic (boom arm)]
+|  [Headphones]   [Acoustic Panels]
+-------------------------------
+```
+- Acoustic panels behind speakers/mic for treatment.
+
+## High Budget Layout
+```
+[Desk]-----------------------------------
+| [DAW Workstation]    [Audio Interface]
+| [Monitors on Stands] [Mic (Vocal Booth)]
+| [Headphones]         [Bass Traps] [Diffusers]
+| [Producer Chair]     [Rack Gear]
+-----------------------------------------
+```
+- Dedicated vocal booth, bass traps in corners, diffusers behind listening position.
